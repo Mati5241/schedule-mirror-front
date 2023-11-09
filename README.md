@@ -4,7 +4,12 @@ I have break from MK and I didn't know about projects, so I am sending this one.
 # Magic Mirror
 
 I made magic mirror for my girlfriend. It's venetian mirror with tablet inside. It shows random text from the array, but if there are tasks to be completed on the current day, the mirror displays these tasks
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/rtbmq20/Mirror.jpg" alt="Mirror" border="0" /></a>## Technology
+
+
+![image](https://github.com/Mati5241/schedule-mirror-front/assets/143203781/02c0b748-cd5d-4f0d-a193-cbad788ecbfb)
+
+
+## Technology
 <div align="center">
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
