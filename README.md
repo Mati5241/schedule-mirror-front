@@ -44,3 +44,7 @@ On https://app-megak.schedule-mirror.pl/ you can see mirror app.
 - Implement typescript
 - Set the maximum number of tasks per day
 - Exclude the possibility of adding a task while the previous task is still in progress
+ ## Other repositories
+
+- mirror app
+- backend
