@@ -36,7 +36,9 @@ Go to website
 ```
 ## Demo
 
-You can check demo for megaK on https://megak.schedule-mirror.pl/ - on this website you can add tasks. These tasks will be displayed on mirror. On https://app-megak.schedule-mirror.pl/ you can see mirror app.
+You can check demo for megaK on https://megak.schedule-mirror.pl/ - on this website you can add tasks. 
+These tasks will be displayed on mirror. 
+On https://app-megak.schedule-mirror.pl/ you can see mirror app.
 
 ## To do
 - Implement typescript
