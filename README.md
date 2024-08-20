@@ -1,6 +1,4 @@
 
-## 🚀 About Me
-I have break from MK and I didn't know about projects, so I am sending this one. I know that it's not done in a perfect way, but I am still working on that. I am sorry for every "any", I will do push-ups and implement typescript later. I had deadline for this project for my girlfriend (it was more important than making beautiful code)
 # Magic Mirror
 
 I made magic mirror for my girlfriend. It's venetian mirror with tablet inside. It shows random text from the array, but if there are tasks to be completed on the current day, the mirror displays these tasks
